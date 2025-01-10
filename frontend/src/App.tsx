@@ -22,7 +22,6 @@ function App() {
   };
   return (
     <>
-      <h2>BubbleChat</h2>
       <Form create={handleSend} />
       <MessageList messages={messages} />
     </>

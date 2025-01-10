@@ -18,6 +18,7 @@ export default function Form({ create }: Props) {
 
   return (
     <form className={cl.container}>
+      <h2>BubbleChat</h2>
       <input
         type="text"
         placeholder="name"
