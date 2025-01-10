@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 120px;
+}
+button {
+  background-color: rgb(63, 16, 107);
+  padding: 8px;
+  cursor: pointer;
+  color: white;
+  border: 1px solid gray;
+  margin-top: 4px;
+}
+input {
+  padding: 8px;
+  border: 1px solid rgb(63, 16, 107);
+  margin-top: 4px;
+}
